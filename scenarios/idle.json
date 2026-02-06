@@ -1,0 +1,12 @@
+{
+    "name": "idle",
+    "min_objects": 0,
+    "max_objects": 2,
+    "allowed_types": ["BIRD", "UNKNOWN"],
+    "spawn_rate_hz": 0.01,
+    "min_range_m": 1000,
+    "max_range_m": 15000,
+    "min_speed_mps": 5,
+    "max_speed_mps": 30,
+    "hostile_probability": 0.0
+}

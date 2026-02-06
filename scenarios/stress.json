@@ -1,0 +1,13 @@
+{
+    "name": "stress",
+    "min_objects": 50,
+    "max_objects": 100,
+    "allowed_types": ["FIXED_WING", "ROTARY_WING", "UAV_SMALL", "UAV_LARGE",
+                      "MISSILE", "ROCKET_ARTILLERY", "BIRD", "DECOY", "UNKNOWN"],
+    "spawn_rate_hz": 10.0,
+    "min_range_m": 1000,
+    "max_range_m": 40000,
+    "min_speed_mps": 10,
+    "max_speed_mps": 800,
+    "hostile_probability": 0.5
+}

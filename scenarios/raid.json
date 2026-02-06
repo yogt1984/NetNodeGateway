@@ -1,0 +1,12 @@
+{
+    "name": "raid",
+    "min_objects": 10,
+    "max_objects": 30,
+    "allowed_types": ["UAV_SMALL", "MISSILE", "ROCKET_ARTILLERY"],
+    "spawn_rate_hz": 1.0,
+    "min_range_m": 3000,
+    "max_range_m": 25000,
+    "min_speed_mps": 100,
+    "max_speed_mps": 600,
+    "hostile_probability": 0.8
+}

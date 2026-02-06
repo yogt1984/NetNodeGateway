@@ -1,0 +1,12 @@
+{
+    "name": "patrol",
+    "min_objects": 3,
+    "max_objects": 8,
+    "allowed_types": ["FIXED_WING", "ROTARY_WING", "UAV_SMALL"],
+    "spawn_rate_hz": 0.1,
+    "min_range_m": 5000,
+    "max_range_m": 30000,
+    "min_speed_mps": 50,
+    "max_speed_mps": 300,
+    "hostile_probability": 0.3
+}
